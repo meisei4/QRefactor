@@ -1,5 +1,9 @@
 # QRefactor
 
+https://docs.qgis.org/3.34/en/docs/pyqgis_developer_cookbook/intro.html
+
+^^still learning version 3 QGIS api
+
 WIP QRefactor is a QGIS plugin to refactor project structures and maintain an organized Git repository.
 
 ## Installation
