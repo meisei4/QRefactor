@@ -1,3 +1,3 @@
 def classFactory(iface):
-    from .qrefactor_plugin import QRefactorPlugin
+    from .main import QRefactorPlugin
     return QRefactorPlugin(iface)
